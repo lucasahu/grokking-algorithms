@@ -1,4 +1,6 @@
-def binary_search(list, item) :
+#Binary seach algorithm for numbers
+
+def binary_search(list, item):
     low = 0
     high = len(list) - 1
 
@@ -14,5 +16,7 @@ def binary_search(list, item) :
     return None
 
 my_list = [1, 3, 5, 7, 9]
+
+#Test case
 
 print (binary_search(my_list, 3))
