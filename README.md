@@ -1,5 +1,7 @@
 # Grokking Algorithms
-Algorithms from the book Grokking Algorithms
+Algorithms from the book 'Grokking Algorithms'
 
-# Algorithms Contained
-* Binary Search
+# Algorithms contained
+* Binary search
+* Selection sort
+* Quicksort
