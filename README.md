@@ -5,3 +5,7 @@ Algorithms from the book 'Grokking Algorithms'
 * Binary search
 * Selection sort
 * Quicksort
+
+# Code along examples
+* Divide and Conquer
+* Page 67 snippets
